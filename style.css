@@ -1,0 +1,215 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}.container{
+    width: 100% ;
+    height: 100%;
+    background-color: gray;
+   
+}nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 100px;
+}.navbar{
+   
+  display: flex;
+  list-style: none;
+  font-style: normal;
+  
+}.navbar a{
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+   
+}
+.desc{
+    background-color:dimgrey;
+    padding: 15px 350px;
+    color: white;
+    
+}
+.theam img{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+  
+}.theam{
+    background-color:gray;
+   
+}
+
+
+
+
+.description{
+ text-align: center;
+ color: aqua;
+}.container-2{
+   display:flex;
+   flex-wrap: wrap;
+   gap: 10px;
+   background-color: gray;
+}
+.imgg{
+    position: relative;
+   
+  
+}
+.imgg p{
+   
+    top:50px;
+    color: white;
+
+position: absolute;
+    
+   left: 110px;
+    right: 100px;
+       text-align: center;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 2.5rem;
+   line-height: 1;
+
+    
+}.imgg h3{
+    top: 100px;
+    color: white;
+    position: absolute;
+    left:150px;
+    right: 150px;
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+   
+}.imgg a{
+    text-decoration: none;
+    top:150px;
+    color: white;
+    position: absolute;
+    left: 200px;
+    right: 200px;
+    
+    text-align: center;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+}
+.sa{
+    width: 100%;
+    height:550px;
+    background-color: black;
+  
+}
+.sa .first{ 
+    display: flex;
+    flex-direction: column;
+color: white;
+
+
+}.first li{
+    padding-top: 30px;
+    list-style: none;
+    
+}.first li a{
+    text-decoration: none;
+    color: white;
+}
+
+.second{
+    display: flex;
+    flex-direction: column;
+color: white;
+list-style: none;
+
+}
+.second li{
+    padding-top: 30px;
+
+}.second li a{
+    text-decoration: none;
+    color: white;
+}
+
+.con{
+    display: flex;
+    column-gap: 80px;
+    padding-left: 50px;
+    
+}
+
+.third{
+    display: flex;
+    flex-direction: column;
+color: white;
+list-style: none;
+}
+.third li{
+    padding-top: 30px;
+}.third li a{
+    text-decoration: none;
+    color: white;
+}
+.fourth{
+    display: flex;
+    flex-direction: column;
+color: white;
+list-style: none;
+}
+.fourth li{
+    padding-top: 30px;
+}.fourth li a{
+    text-decoration: none;
+    color: white;
+}
+
+.fifth{
+    display: flex;
+    flex-direction: column;
+color: white;
+list-style: none;
+
+
+}
+
+
+.fifth li {
+    padding-top: 30px;
+   
+   
+}.fifth li a{
+    text-decoration: none;
+    color: white;
+}.sixth{
+    display: flex;
+   
+    color: green;
+list-style: none;
+
+
+}
+
+
+.sixth li{
+    padding-top: 30px;
+   
+   
+}
+.seventh{
+    display: flex;
+    color: white;
+    list-style: none;
+    justify-content: center;
+
+}.seventh li{
+padding-left: 30px;
+padding-top: 50px;
+}.seventh li a{
+text-decoration: none;
+color: white;
+}
